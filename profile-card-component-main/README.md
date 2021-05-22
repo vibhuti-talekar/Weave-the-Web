@@ -8,4 +8,4 @@ This project was created as a part of Weave The Web.
 
 ## Screenshot of Website created by me
 
-![Design preview for the Profile card component coding challenge](./design/1.png)
+![Design preview for the Profile card component coding challenge](./design/1.jpg)
