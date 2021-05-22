@@ -10,3 +10,4 @@ This project was created as a part of Weave The Web.
 
 (./design/desktop-preview.jpg)
 
+![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
